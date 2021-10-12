@@ -23,7 +23,7 @@
 [![Product Name Screen Shot][product-screenshot]](https://react-jen-tak.netlify.app/)
 
 Tento projekt sloužil spíše k seznámení se s react...
-Není zde žádným způsobem řešeno více stránek (router je připraven).
+Není zde žádným způsobem řešeno více stránek.
 Css vloženo né pěkným způsobem! 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
